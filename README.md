@@ -61,3 +61,16 @@ This is an early version of the project. Future improvements may include additio
 ### Quiz Answer and Coins
 
 ![Quiz answer and coins](answer_coins.png)
+
+## What I Learned
+
+Through this project, I developed experience with:
+
+- Object-oriented programming using Python classes
+- Keyboard input and player movement
+- Collision detection
+- Randomised computing questions
+- Game logic and scoring
+- Using Python's Turtle graphics library
+- Testing and debugging during development
+- Breaking a larger problem into smaller programming tasks
