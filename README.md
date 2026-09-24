@@ -47,3 +47,17 @@ python maze_quiz.py
 ## Project Status
 
 This is an early version of the project. Future improvements may include additional levels, improved question handling, scoring, and further code organisation.
+
+## Screenshots
+
+### Main Game
+
+![Maze Quiz main game](maze_quiz_main.png)
+
+### Computing Quiz
+
+![Computing quiz question](question.png)
+
+### Quiz Answer and Coins
+
+![Quiz answer and coins](answer_coins.png)
