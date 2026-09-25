@@ -1,54 +1,78 @@
-# Maze Quiz
+# Maze Quiz 🎮
 
-A Python maze game where the player navigates through a maze, collects coins, and answers computing questions to earn points.
+A Python Turtle-based maze game that combines maze navigation with computer science quiz questions.
 
-## About the Project
+This repository contains both the **original version** of the project and an **improved version** that I revisited and developed further.
 
-This is a Python project I created to practise programming concepts including object-oriented programming, keyboard input, collision detection, randomisation, and game logic.
+## 📌 Project Development
 
-The game uses Python's Turtle graphics library to create the maze and game interface.
+The original version of Maze Quiz was created as part of my studies.
 
-## Features
+I later returned to the project to review the existing code and improve the game while keeping the original concept and core gameplay.
 
-* Navigate the maze using the arrow keys
-* Collect coins
-* Answer computing questions
-* Earn points for correct answers
-* Collision detection between the player and coins
-* Maze created using a grid-based level system
+### Original Version
 
-## Technologies
+`maze_quiz_original.py`
 
-* Python
-* Turtle
-* Random
-* Math
+This is the original version of the project as it was initially developed.
 
-## How to Run
+### Improved Version
 
-1. Download or clone this repository.
-2. Make sure Python is installed.
-3. Open a terminal in the project folder.
-4. Run:
+`maze_quiz_improved.py`
+
+This version revisits the original project with improvements to the game's structure and gameplay, while keeping the original maze quiz concept.
+
+## 🕹️ Features
+
+* Maze navigation using the arrow keys
+* Computer science quiz questions
+* Coin collection
+* Score system
+* Three lives
+* Randomised questions
+* Questions are not repeated until the question list has been used
+* Game-over screen
+* Game completion screen
+* Restart functionality
+
+## 🎯 How to Play
+
+1. Start the game.
+2. Use the **arrow keys** to move around the maze.
+3. Collect the coins.
+4. Answer the computer science questions when prompted.
+5. Correct answers increase your score.
+6. Incorrect answers cost a life.
+7. Collect all the coins to complete the maze.
+
+## 🛠️ Technologies Used
+
+* **Python**
+* **Turtle Graphics**
+* **Random module**
+* **Math module**
+
+## ▶️ How to Run
+
+### Requirements
+
+* Python 3.x
+
+### Running the improved version
+
+Open a terminal in the project folder and run:
 
 ```bash
-python maze_quiz.py
+python maze_quiz_improved.py
 ```
 
-## Controls
+To run the original version:
 
-| Key | Action     |
-| --- | ---------- |
-| ↑   | Move up    |
-| ↓   | Move down  |
-| ←   | Move left  |
-| →   | Move right |
+```bash
+python maze_quiz_original.py
+```
 
-## Project Status
-
-This is an early version of the project. Future improvements may include additional levels, improved question handling, scoring, and further code organisation.
-
-## Screenshots
+## 📸 Screenshots
 
 ### Main Game
 
@@ -62,15 +86,30 @@ This is an early version of the project. Future improvements may include additio
 
 ![Quiz answer and coins](answer_coins.png)
 
-## What I Learned
+## 📚 What I Learned
 
-Through this project, I developed experience with:
+This project helped me develop my understanding of:
 
-- Object-oriented programming using Python classes
-- Keyboard input and player movement
-- Collision detection
-- Randomised computing questions
-- Game logic and scoring
-- Using Python's Turtle graphics library
-- Testing and debugging during development
-- Breaking a larger problem into smaller programming tasks
+* Python classes and objects
+* Functions and variables
+* Lists and dictionaries
+* Keyboard input
+* Collision detection
+* Game loops
+* Random question selection
+* Managing game states
+* Using the Turtle graphics library
+* Revisiting and improving existing code
+
+## 🔮 Possible Future Improvements
+
+Some possible future improvements could include:
+
+* Additional maze layouts
+* More quiz questions
+* A high-score system
+* Sound effects and background music
+* A graphical menu
+* Different types of collectible items
+* Difficulty settings
+* Adding more levels
