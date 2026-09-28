@@ -1,10 +1,10 @@
-# Maze Quiz 🎮
+# Maze Quiz 
 
 A Python Turtle-based maze game that combines maze navigation with computer science quiz questions.
 
 This repository contains both the **original version** of the project and an **improved version** that I revisited and developed further.
 
-## 📌 Project Development
+## Project Development
 
 The original version of Maze Quiz was created as part of my studies.
 
@@ -22,7 +22,7 @@ This is the original version of the project as it was initially developed.
 
 This version revisits the original project with improvements to the game's structure and gameplay, while keeping the original maze quiz concept.
 
-## 🕹️ Features
+## Features
 
 * Maze navigation using the arrow keys
 * Computer science quiz questions
@@ -35,7 +35,7 @@ This version revisits the original project with improvements to the game's struc
 * Game completion screen
 * Restart functionality
 
-## 🎯 How to Play
+## How to Play
 
 1. Start the game.
 2. Use the **arrow keys** to move around the maze.
@@ -45,14 +45,14 @@ This version revisits the original project with improvements to the game's struc
 6. Incorrect answers cost a life.
 7. Collect all the coins to complete the maze.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python**
 * **Turtle Graphics**
 * **Random module**
 * **Math module**
 
-## ▶️ How to Run
+## How to Run
 
 ### Requirements
 
@@ -72,7 +72,7 @@ To run the original version:
 python maze_quiz_original.py
 ```
 
-## 📸 Screenshots
+## Screenshots
 
 ### Main Game
 
@@ -86,7 +86,7 @@ python maze_quiz_original.py
 
 ![Quiz answer and coins](answer_coins.png)
 
-## 📚 What I Learned
+## What I Learned
 
 This project helped me develop my understanding of:
 
@@ -101,7 +101,7 @@ This project helped me develop my understanding of:
 * Using the Turtle graphics library
 * Revisiting and improving existing code
 
-## 🔮 Possible Future Improvements
+## Possible Future Improvements
 
 Some possible future improvements could include:
 
